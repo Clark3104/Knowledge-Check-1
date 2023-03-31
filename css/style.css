@@ -178,16 +178,16 @@ a:hover, a:active {
     border: 2px solid #333333;
 }
 .hero-content .btn:hover, .hero-content .btn:active {
-    background: #333333;
+    background: #bb2154;
     color: #F1F1F1;
-    border: 2px solid #666666;
+    border: 2px solid #862b07;
 }
 
 .btn, .btn:visited  {
     width: 100%;
     max-width: 180px;
     background: #f08527;
-    color: #1b1b27;
+    color: #bb2154;
     border: 2px solid #f08527;
     border-radius: 12px;
     padding: 12px 24px;
@@ -200,9 +200,9 @@ a:hover, a:active {
 }
 
 .btn:hover, .btn:focus, .btn:active {
-    background: #74b44a;
+    background: #bb2154;
     color: #F1F1F1;
-    border: 2px solid #74b44a;
+    border: 2px solid ;
 }
 
 
@@ -274,7 +274,7 @@ section p {
 }
 
 .mobile-nav span a:hover {
-    color: #74b44a;
+    color: #F1F1F1;
 }
 
 footer {
